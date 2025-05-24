@@ -44,7 +44,7 @@ TemporalTaylor/
 
 1. 克隆仓库
 ```
-git clone https://github.com/yourusername/TemporalTaylor.git
+git clone https://github.com/QwenchC/TemporalTaylor.git
 cd TemporalTaylor
 ```
 
